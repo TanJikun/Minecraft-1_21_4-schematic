@@ -1,4 +1,6 @@
-# Non-Chinese provide their own translation
+# 如果你想下载这些投影文件，下面有教程
+
+##### If you are not Chinese, please arrange for translation yourself.
 
 所有的投影来源都有说明
 
